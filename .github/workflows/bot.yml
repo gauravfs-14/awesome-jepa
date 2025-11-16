@@ -1,0 +1,36 @@
+name: "Update Papers List"
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  cronJob:
+    name: "Update Papers JSON"
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18.x
+          cache: "npm"
+          cache-dependency-path: parser/package-lock.json
+
+      - run: git pull
+
+      # Only run `npm ci` if lockfile or package.json changed
+      - run: npm ci --prefix parser
+
+      - run: node parser/arxiv.js
+      - run: node parser/readme.js
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f 'readme.md'
+          git commit -m "🤖 Auto Update for $(date +'%Y-%m-%d')"
+          git push --force
