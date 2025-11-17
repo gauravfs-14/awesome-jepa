@@ -31,12 +31,44 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
+November 17, 2025 at 01:53:16 AM UTC
 
-November 16, 2025 at 02:04:55 AM UTC
 
 ## Theorem
 
-## Papers (0)
+## Papers (31)
+- [TEM Agent: enhancing transmission electron microscopy (TEM) with modern AI tools](https://arxiv.org/abs/2511.08819)
+- [ORCHID: Orchestrated Retrieval-Augmented Classification with Human-in-the-Loop Intelligent Decision-Making for High-Risk Property](https://arxiv.org/abs/2511.04956)
+- [Securing AI Agent Execution](https://arxiv.org/abs/2510.21236)
+- [NetMCP: Network-Aware Model Context Protocol Platform for LLM Capability Extension](https://arxiv.org/abs/2510.13467)
+- [LLM\times\timesMapReduce-V3: Enabling Interactive In-Depth Survey Generation through a MCP-Driven Hierarchically Modular Agent System](https://arxiv.org/abs/2510.10890)
+- [AniME: Adaptive Multi-Agent Planning for Long Animation Generation](https://arxiv.org/abs/2508.18781)
+- [Towards Agentic OS: An LLM Agent Framework for Linux Schedulers](https://arxiv.org/abs/2509.01245)
+- [Model Context Protocol for Vision Systems: Audit, Security, and Protocol Extensions](https://arxiv.org/abs/2509.22814)
+- [Agentic-AI Healthcare: Multilingual, Privacy-First Framework with MCP Agents](https://arxiv.org/abs/2510.02325)
+- [IoT-MCP: Bridging LLMs and IoT Systems Through Model Context Protocol](https://arxiv.org/abs/2510.01260)
+- [XARP Tools: An Extended Reality Platform for Humans and AI Agents](https://arxiv.org/abs/2508.04108)
+- [Dynamic ReAct: Scalable Tool Selection for Large-Scale MCP Environments](https://arxiv.org/abs/2509.20386)
+- [Tool Preferences in Agentic LLMs are Unreliable](https://arxiv.org/abs/2505.18135)
+- [EHR-MCP: Real-world Evaluation of Clinical Information Retrieval by Large Language Models via Model Context Protocol](https://arxiv.org/abs/2509.15957)
+- [Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol (MCP) Ecosystem](https://arxiv.org/abs/2506.02040)
+- [MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers](https://arxiv.org/abs/2508.20453)
+- [Help or Hurdle? Rethinking Model Context Protocol-Augmented Large Language Models](https://arxiv.org/abs/2508.12566)
+- [MCP2OSC: Parametric Control by Natural Language](https://arxiv.org/abs/2508.10414)
+- [Magentic-UI: Towards Human-in-the-loop Agentic Systems](https://arxiv.org/abs/2507.22358)
+- [MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations](https://arxiv.org/abs/2507.21428)
+- [Gradientsys: A Multi-Agent LLM Scheduler with ReAct Orchestration](https://arxiv.org/abs/2507.06520)
+- [Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers](https://arxiv.org/abs/2506.13538)
+- [We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems](https://arxiv.org/abs/2506.13666)
+- [Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence](https://arxiv.org/abs/2506.10925)
+- [Beyond Formal Semantics for Capabilities and Skills: Model Context Protocol in Manufacturing](https://arxiv.org/abs/2506.11180)
+- [ETDI: Mitigating Tool Squatting and Rug Pull Attacks in Model Context Protocol (MCP) by using OAuth-Enhanced Tool Definitions and Policy-Based Access Control](https://arxiv.org/abs/2506.01333)
+- [Mind the Metrics: Patterns for Telemetry-Aware In-IDE AI Application Development using the Model Context Protocol (MCP)](https://arxiv.org/abs/2506.11019)
+- [Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies](https://arxiv.org/abs/2504.08623)
+- [Securing GenAI Multi-Agent Systems Against Tool Squatting: A Zero Trust Registry-Based Approach](https://arxiv.org/abs/2504.19951)
+- [MCP Bridge: A Lightweight, LLM-Agnostic RESTful Proxy for Model Context Protocol Servers](https://arxiv.org/abs/2504.08999)
+- [MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits](https://arxiv.org/abs/2504.03767)
+
 
 ## Library
 
