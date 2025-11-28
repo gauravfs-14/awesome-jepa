@@ -31,12 +31,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-November 27, 2025 at 01:50:32 AM UTC
+November 28, 2025 at 01:50:16 AM UTC
 
 
 ## Theorem
 
-## Papers (32)
+## Papers (33)
 - [TEM Agent: enhancing transmission electron microscopy (TEM) with modern AI tools](https://arxiv.org/abs/2511.08819)
 - [ORCHID: Orchestrated Retrieval-Augmented Classification with Human-in-the-Loop Intelligent Decision-Making for High-Risk Property](https://arxiv.org/abs/2511.04956)
 - [Securing AI Agent Execution](https://arxiv.org/abs/2510.21236)
@@ -69,6 +69,7 @@ November 27, 2025 at 01:50:32 AM UTC
 - [MCP Bridge: A Lightweight, LLM-Agnostic RESTful Proxy for Model Context Protocol Servers](https://arxiv.org/abs/2504.08999)
 - [MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits](https://arxiv.org/abs/2504.03767)
 - [Hiding in the AI Traffic: Abusing MCP for LLM-Powered Agentic Red Teaming](https://arxiv.org/abs/2511.15998)
+- [Securing the Model Context Protocol (MCP): Risks, Controls, and Governance](https://arxiv.org/abs/2511.20920)
 
 
 ## Library
