@@ -13,20 +13,19 @@ JEPA represents a fundamental shift in how AI systems learn representations. Unl
 
 To keep the community up-to-date with the latest developments, this repository is continuously enriched with newly published JEPA-related papers, real-world use cases, and open-source implementations. From foundational architectures to advanced variants like Hierarchical JEPA (H-JEPA) and applications in vision, language, and multimodal learning, the collection aims to highlight both foundational ideas and emerging best practices.
 
-<!-- 
 > [!NOTE]
-> 📢 **Announcement:** Our paper is now available on [arXiv](https://arxiv.org/abs/2508.19239)!  
-> **Title:** *Model Context Protocols in Adaptive Transport Systems: A Survey*  
+> 📢 **Announcement:** Our paper is now available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5772122)!  
+> **Title:** *A Survey on Joint Embedding Predictive Architectures and World Models*  
 > If you find this paper interesting, please consider citing our work. Thank you for your support!
 
 ```bibtex
-@article{chhetri2025model,
-  title={Model Context Protocols in Adaptive Transport Systems: A Survey},
-  author={Chhetri, Gaurab and Somvanshi, Shriyank and Islam, Md Monzurul and Brotee, Shamyo and Mimi, Mahmuda Sultana and Koirala, Dipti and Pandey, Biplov and Das, Subasish},
-  journal={arXiv preprint arXiv:2508.19239},
+@article{brotee2025survey,
+  title={A Survey on Joint Embedding Predictive Architectures and World Models},
+  author={Brotee, Shamyo and Chhetri, Gaurab and Polock, Sazzad Bin Bashar and Bellamkonda, Venkata Surya and Rafe, Amir and Das, Subasish},
+  journal={Available at SSRN 5772122},
   year={2025}
 }
-``` -->
+```
 
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
