@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-December 4, 2025 at 01:55:32 AM UTC
+December 5, 2025 at 01:56:04 AM UTC
 
 
 ## Theorem
 
-## Papers (37)
+## Papers (38)
 - [TEM Agent: enhancing transmission electron microscopy (TEM) with modern AI tools](https://arxiv.org/abs/2511.08819)
 - [ORCHID: Orchestrated Retrieval-Augmented Classification with Human-in-the-Loop Intelligent Decision-Making for High-Risk Property](https://arxiv.org/abs/2511.04956)
 - [Securing AI Agent Execution](https://arxiv.org/abs/2510.21236)
@@ -73,6 +73,7 @@ December 4, 2025 at 01:55:32 AM UTC
 - [PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing](https://arxiv.org/abs/2512.02589)
 - [Leveraging Large Language Models to Bridge On-chain and Off-chain Transparency in Stablecoins](https://arxiv.org/abs/2512.02418)
 - [LeechHijack: Covert Computational Resource Exploitation in Intelligent Agent Systems](https://arxiv.org/abs/2512.02321)
+- [Benchmark for Planning and Control with Large Language Model Agents: Blocksworld with Model Context Protocol](https://arxiv.org/abs/2512.03955)
 
 
 ## Library
