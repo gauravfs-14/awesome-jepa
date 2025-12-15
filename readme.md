@@ -30,7 +30,7 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-December 14, 2025 at 02:05:12 AM UTC
+December 15, 2025 at 02:02:31 AM UTC
 
 
 ## Theorem
