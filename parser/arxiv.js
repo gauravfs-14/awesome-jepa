@@ -18,7 +18,7 @@ import fs from "fs";
 
     // Navigate to the arXiv search page
     await page.goto(
-      "https://arxiv.org/search/?query=model+control+protocol%2C+mcp&searchtype=all&abstracts=show&order=-submitted_date",
+      "https://arxiv.org/search/?query=Joint+Embedding+Predictive+Architecture&searchtype=all&abstracts=show&order=-submitted_date",
       { waitUntil: "networkidle2" }
     );
 
