@@ -30,13 +30,62 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-January 8, 2026 at 06:45:19 PM UTC
+January 8, 2026 at 06:51:30 PM UTC
 
 
 ## Theorem
 
-## Papers (0)
-
+## Papers (50)
+- [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
+- [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
+- [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
+- [Value-guided action planning with JEPA world models](https://arxiv.org/abs/2601.00844)
+- [JEPA-Reasoner: Decoupling Latent Reasoning from Token Generation](https://arxiv.org/abs/2512.19171)
+- [KerJEPA: Kernel Discrepancies for Euclidean Self-Supervised Learning](https://arxiv.org/abs/2512.19605)
+- [VL-JEPA: Joint Embedding Predictive Architecture for Vision-language](https://arxiv.org/abs/2512.10942)
+- [JEPA as a Neural Tokenizer: Learning Robust Speech Representations with Density Adaptive Attention](https://arxiv.org/abs/2512.07168)
+- [Opinion: Learning Intuitive Physics May Require More than Visual Data](https://arxiv.org/abs/2512.06232)
+- [Tokenizing Buildings: A Transformer for Layout Synthesis](https://arxiv.org/abs/2512.04832)
+- [EnzyCLIP: A Cross-Attention Dual Encoder Framework with Contrastive Learning for Predicting Enzyme Kinetic Constants](https://arxiv.org/abs/2512.00379)
+- [Health system learning achieves generalist neuroimaging models](https://arxiv.org/abs/2511.18640)
+- [CrossJEPA: Cross-Modal Joint-Embedding Predictive Architecture for Efficient 3D Representation Learning from 2D Images](https://arxiv.org/abs/2511.18424)
+- [DSeq-JEPA: Discriminative Sequential Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2511.17354)
+- [POMA-3D: The Point Map Way to 3D Scene Understanding](https://arxiv.org/abs/2511.16567)
+- [Beyond Generative AI: World Models for Clinical Prediction, Counterfactuals, and Planning](https://arxiv.org/abs/2511.16333)
+- [PI-NAIM: Path-Integrated Neural Adaptive Imputation Model](https://arxiv.org/abs/2511.11908)
+- [LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics](https://arxiv.org/abs/2511.08544)
+- [Multi-Joint Physics-Informed Deep Learning Framework for Time-Efficient Inverse Dynamics](https://arxiv.org/abs/2511.10878)
+- [Koopman Invariants as Drivers of Emergent Time-Series Clustering in Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2511.09783)
+- [TransactionGPT](https://arxiv.org/abs/2511.08939)
+- [WavJEPA: Semantic learning unlocks robust audio foundation models for raw waveforms](https://arxiv.org/abs/2509.23238)
+- [Learning from Reward-Free Offline Data: A Case for Planning with Latent Dynamics Models](https://arxiv.org/abs/2502.14819)
+- [CSU-PCAST: A Dual-Branch Transformer Framework for medium-range ensemble Precipitation Forecasting](https://arxiv.org/abs/2510.20769)
+- [Improving the Physics of Video Generation with VJEPA-2 Reward Signal](https://arxiv.org/abs/2510.21840)
+- [DINO-CVA: A Multimodal Goal-Conditioned Vision-to-Action Model for Autonomous Catheter Navigation](https://arxiv.org/abs/2510.17038)
+- [Why and How Auxiliary Tasks Improve JEPA Representations](https://arxiv.org/abs/2509.12249)
+- [Valeo Near-Field: a novel dataset for pedestrian intent detection](https://arxiv.org/abs/2510.15673)
+- [LLM-JEPA: Large Language Models Meet Joint Embedding Predictive Architectures](https://arxiv.org/abs/2509.14252)
+- [Gaussian Embeddings: How JEPAs Secretly Learn Your Data Density](https://arxiv.org/abs/2510.05949)
+- [Self-Supervised Representation Learning with Joint Embedding Predictive Architecture for Automotive LiDAR Object Detection](https://arxiv.org/abs/2501.04969)
+- [JEPA-T: Joint-Embedding Predictive Architecture with Text Fusion for Image Generation](https://arxiv.org/abs/2510.00974)
+- [Joint Embeddings Go Temporal](https://arxiv.org/abs/2509.25449)
+- [Rethinking JEPA: Compute-Efficient Video SSL with Frozen Teachers](https://arxiv.org/abs/2509.24317)
+- [MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer](https://arxiv.org/abs/2509.16197)
+- [Self-supervised learning of imaging and clinical signatures using a multimodal joint-embedding predictive architecture](https://arxiv.org/abs/2509.15470)
+- [EgoAgent: A Joint Predictive Agent Model in Egocentric Worlds](https://arxiv.org/abs/2502.05857)
+- [MuMTAffect: A Multimodal Multitask Affective Framework for Personality and Emotion Recognition from Physiological Signals](https://arxiv.org/abs/2509.04254)
+- [Predict, Cluster, Refine: A Joint Embedding Predictive Self-Supervised Framework for Graph Representation Learning](https://arxiv.org/abs/2502.01684)
+- [Learning State-Space Models of Dynamic Systems from Arbitrary Data using Joint Embedding Predictive Architectures](https://arxiv.org/abs/2508.10489)
+- [JEPA4Rec: Learning Effective Language Representations for Sequential Recommendation via Joint Embedding Predictive Architecture](https://arxiv.org/abs/2504.10512)
+- [Elucidating the Role of Feature Normalization in IJEPA](https://arxiv.org/abs/2508.02829)
+- [TrajFlow: A Generative Framework for Occupancy Density Estimation Using Normalizing Flows](https://arxiv.org/abs/2501.14266)
+- [CLIPTime: Time-Aware Multimodal Representation Learning from Images and Text](https://arxiv.org/abs/2508.00447)
+- [PatchTraj: Unified Time-Frequency Representation Learning via Dynamic Patches for Trajectory Prediction](https://arxiv.org/abs/2507.19119)
+- [Speaking in Words, Thinking in Logic: A Dual-Process Framework in QA Systems](https://arxiv.org/abs/2507.20491)
+- [BadHMP: Backdoor Attack against Human Motion Prediction](https://arxiv.org/abs/2409.19638)
+- [Improving Joint Embedding Predictive Architecture with Diffusion Noise](https://arxiv.org/abs/2507.15216)
+- [From Video to EEG: Adapting Joint Embedding Predictive Architecture to Uncover Visual Concepts in Brain Signal Analysis](https://arxiv.org/abs/2507.03633)
+- [MCST-Mamba: Multivariate Mamba-Based Model for Traffic Prediction](https://arxiv.org/abs/2507.03927)
 
 
 ## Library
