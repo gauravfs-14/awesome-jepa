@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-January 13, 2026 at 01:59:39 AM UTC
+January 14, 2026 at 02:06:48 AM UTC
 
 
 ## Theorem
 
-## Papers (51)
+## Papers (53)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -87,6 +87,8 @@ January 13, 2026 at 01:59:39 AM UTC
 - [From Video to EEG: Adapting Joint Embedding Predictive Architecture to Uncover Visual Concepts in Brain Signal Analysis](https://arxiv.org/abs/2507.03633)
 - [MCST-Mamba: Multivariate Mamba-Based Model for Traffic Prediction](https://arxiv.org/abs/2507.03927)
 - [seq-JEPA: Autoregressive Predictive Learning of Invariant-Equivariant World Models](https://arxiv.org/abs/2505.03176)
+- [Conditional Normalizing Flows for Forward and Backward Joint State and Parameter Estimation](https://arxiv.org/abs/2601.07013)
+- [Akasha 2: Hamiltonian State Space Duality and Visual-Language Joint Embedding Predictive Architectur](https://arxiv.org/abs/2601.06212)
 
 
 ## Library
