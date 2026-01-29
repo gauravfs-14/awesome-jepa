@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-January 28, 2026 at 02:06:10 AM UTC
+January 29, 2026 at 02:27:44 AM UTC
 
 
 ## Theorem
 
-## Papers (57)
+## Papers (59)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -93,6 +93,8 @@ January 28, 2026 at 02:06:10 AM UTC
 - [VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models](https://arxiv.org/abs/2601.14354)
 - [RadJEPA: Radiology Encoder for Chest X-Rays via Joint Embedding Predictive Architecture](https://arxiv.org/abs/2601.15891)
 - [Spatiotemporal Semantic V2X Framework for Cooperative Collision Prediction](https://arxiv.org/abs/2601.17216)
+- [WirelessJEPA: A Multi-Antenna Foundation Model using Spatio-temporal Wireless Latent Predictions](https://arxiv.org/abs/2601.20190)
+- [A Latent Space Framework for Modeling Transient Engine Emissions Using Joint Embedding Predictive Architectures](https://arxiv.org/abs/2601.19822)
 
 
 ## Library
