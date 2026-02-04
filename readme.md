@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-February 3, 2026 at 02:34:21 AM UTC
+February 4, 2026 at 02:28:28 AM UTC
 
 
 ## Theorem
 
-## Papers (62)
+## Papers (66)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -98,6 +98,10 @@ February 3, 2026 at 02:34:21 AM UTC
 - [The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR](https://arxiv.org/abs/2601.22128)
 - [Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving](https://arxiv.org/abs/2601.22032)
 - [JTok: On Token Embedding as another Axis of Scaling Law via Joint Token Self-modulation](https://arxiv.org/abs/2602.00800)
+- [Cell-JEPA: Latent Representation Learning for Single-Cell Transcriptomics](https://arxiv.org/abs/2602.02093)
+- [CryoLVM: Self-supervised Learning from Cryo-EM Density Maps with Large Vision Models](https://arxiv.org/abs/2602.02620)
+- [Bayesian Integration of Nonlinear Incomplete Clinical Data](https://arxiv.org/abs/2602.01924)
+- [Rectified LpJEPA: Joint-Embedding Predictive Architectures with Sparse and Maximum-Entropy Representations](https://arxiv.org/abs/2602.01456)
 
 
 ## Library
