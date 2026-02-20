@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-February 19, 2026 at 02:35:34 AM UTC
+February 20, 2026 at 02:30:46 AM UTC
 
 
 ## Theorem
 
-## Papers (79)
+## Papers (80)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -115,6 +115,7 @@ February 19, 2026 at 02:35:34 AM UTC
 - [GOT-JEPA: Generic Object Tracking with Model Adaptation and Occlusion Handling using Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2602.14771)
 - [MeFEm: Medical Face Embedding model](https://arxiv.org/abs/2602.14672)
 - [GenPANIS: A Latent-Variable Generative Framework for Forward and Inverse PDE Problems in Multiphase Media](https://arxiv.org/abs/2602.14642)
+- [JEPA-DNA: Grounding Genomic Foundation Models through Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2602.17162)
 
 
 ## Library
