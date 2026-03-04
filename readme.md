@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-March 3, 2026 at 02:34:34 AM UTC
+March 4, 2026 at 02:27:30 AM UTC
 
 
 ## Theorem
 
-## Papers (84)
+## Papers (85)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -120,6 +120,7 @@ March 3, 2026 at 02:34:34 AM UTC
 - [PRECTR-V2:Unified Relevance-CTR Framework with Cross-User Preference Mining, Exposure Bias Correction, and LLM-Distilled Encoder Optimization](https://arxiv.org/abs/2602.20676)
 - [Relatron: Automating Relational Machine Learning over Relational Databases](https://arxiv.org/abs/2602.22552)
 - [BiJEPA: Bi-directional Joint Embedding Predictive Architecture for Symmetric Representation Learning](https://arxiv.org/abs/2603.00049)
+- [Improving Diffusion Planners by Self-Supervised Action Gating with Energies](https://arxiv.org/abs/2603.02650)
 
 
 ## Library
