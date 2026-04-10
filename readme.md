@@ -30,12 +30,12 @@ To keep the community up-to-date with the latest developments, this repository i
 Whether you are building self-supervised learning systems, researching representation learning, or experimenting with predictive architectures for vision, language, or multimodal tasks, this resource offers a centralized, evolving platform to explore the powerful and expanding universe of JEPA-based systems.
 
 ## Last Updated
-April 9, 2026 at 02:42:59 AM UTC
+April 10, 2026 at 02:54:35 AM UTC
 
 
 ## Theorem
 
-## Papers (106)
+## Papers (107)
 - [PhysVideoGenerator: Towards Physically Aware Video Generation via Latent Physics Guidance](https://arxiv.org/abs/2601.03665)
 - [HanoiWorld : A Joint Embedding Predictive Architecture BasedWorld Model for Autonomous Vehicle Controller](https://arxiv.org/abs/2601.01577)
 - [BERT-JEPA: Reorganizing CLS Embeddings for Language-Invariant Semantics](https://arxiv.org/abs/2601.00366)
@@ -142,6 +142,7 @@ April 9, 2026 at 02:42:59 AM UTC
 - [Gaussian Joint Embeddings For Self-Supervised Representation Learning](https://arxiv.org/abs/2603.26799)
 - [JEPA-MSAC: A Joint-Embedding Predictive Architecture for Multimodal Sensing-Assisted Communications](https://arxiv.org/abs/2603.29796)
 - [PI-JEPA: Label-Free Surrogate Pretraining for Coupled Multiphysics Simulation via Operator-Split Latent Prediction](https://arxiv.org/abs/2604.01349)
+- [Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics](https://arxiv.org/abs/2604.08503)
 
 
 ## Library
